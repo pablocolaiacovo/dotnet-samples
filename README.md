@@ -7,6 +7,7 @@
 ## How to Run
 
 ```bash
+dotnet restore
 dotnet build
 dotnet run
 ```
